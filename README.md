@@ -2,4 +2,4 @@
 
 <p>Hover durumunda altta beliren çizgiler ve içerikteki background ve yazı rengi değişen stiller oluşturuldu.</p>
 
-![](img/ekran.gif)
+![](ekran.gif)
