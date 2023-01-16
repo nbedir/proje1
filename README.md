@@ -1,1 +1,5 @@
-# proje1
+<h1>MOBİLYA MAĞAZASI SİTESİ</h1>
+
+<p>Hover durumunda altta beliren çizgiler ve içerikteki background ve yazı rengi değişen stiller oluşturuldu.</p>
+
+![](img/ekran.gif)
